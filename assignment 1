@@ -1,0 +1,28 @@
+#include<stdio.h>
+#include<conio.h>
+struct emp 
+{
+ int id ;
+ char name[15];
+ float sal,
+} e1
+void main ()
+{
+ struct emp e2 ;
+ printf("Enter Employees : id-");
+ scanf("%d",e1.id) ;
+ printf("Enter Employee 1: name -")
+ gets(e1.name);
+ printf("Enter Employee 1 :  Salary-");
+ scanf("%f",e1sal);
+ printf("Enter Employee 1 : experience level -"):
+ gets(e1.experience);
+ }
+ printf("Employee 1 details :");
+ printf("id,%d",e1.id);
+ printf("\nName;");
+ printf("Experience level, e1.experience");
+ puts(e1.name),
+ printf(""\nSalary:%f",e1.Sal);
+ 
+ 
